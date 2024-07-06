@@ -10,7 +10,9 @@ BMI Calculator is an Android application built with Kotlin that calculates the B
 - **Intuitive UI:** Simple and easy-to-use interface.
 
 ## Screenshots
+![Step1](/Details.png)
 
+![Step2](/Result.png)
 
 ## Installation
 1. Clone the repository:
